@@ -7,8 +7,8 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Kamaganah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kamaganah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="[https://linkedin.com](https://www.linkedin.com/in/kama-un-ganah-712063220/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 [instagram]: https://www.instagram.com/joshmadakor/
