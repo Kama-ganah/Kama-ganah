@@ -3,7 +3,8 @@
 <h2>👨‍💻 Penetration Testing Projects:</h2>
 
 - <b>Vulnerability Testing Reports</b>
-  - [Authentication bypass via information disclosure](https://github.com/Kama-ganah/Vulnerability-Reports)
+  - [Authentication bypass via information disclosure](https://github.com/Kama-ganah/Authentication-bypass-via-information-disclosure)
+  - 
 
 
 <h2> 🤳 Connect with me:</h2>
