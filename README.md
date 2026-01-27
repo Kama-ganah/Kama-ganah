@@ -6,7 +6,8 @@
   - [Basic Password Reset Poisoning](https://github.com/Kama-ganah/Basic-Password-Reset-Poisoning-)
   - [Blind OS command injection with out-of-band data exfiltration(command injection)](https://github.com/Kama-ganah/Blind-OS-command-injection-with-out-of-band-data-exfiltration-command-injection-)
   - [Blind OS command injection with time delays](https://github.com/Kama-ganah/Blind-OS-command-injection-with-time-delays)
-  - [Blind SQL injection with out](https://github.com/Kama-ganah/Blind-OS-command-injection-with-time-delays)
+  - [Blind SQL injection with out- of-band data exfiltration](https://github.com/Kama-ganah/Blind-SQL-with-out-of-band-data-exfiltration-sqli-)
+  - [Brute-forcing a stay-logged-in cookie](https://github.com/Kama-ganah/Blind-OS-command-injection-with-time-delays)
 
 
 <h2> 🤳 Connect with me:</h2>
