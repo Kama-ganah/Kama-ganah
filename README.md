@@ -42,7 +42,8 @@
   - [Exploiting time-sensitive vulnerabilities(race conditons)](https://github.com/Kama-ganah/Exploiting-time-sensitive-vulnerabilities-race-conditions-)
   - [Exploiting vulnerabilities in LLM APIs](https://github.com/Kama-ganah/Exploiting-vulnerabilities-in-LLM-APIs)
   - [File path traversal, traversal sequences blocked with absolute path bypass (path traversal)](https://github.com/Kama-ganah/File-path-traversal-traversal-sequences-blocked-with-absolute-path-bypass-path-traversal-)
-  - [File path traversal, traversal sequences stripped non-recursively (path traversal)]()
+  - [File path traversal, traversal sequences stripped non-recursively (path traversal)](https://github.com/Kama-ganah/File-path-traversal-traversal-sequences-stripped-non-recursively-path-traversal-)
+  - [Finding a hidden GraphQL endpoint]()
 
 
 <h2> Tools used</h2>
