@@ -57,7 +57,8 @@
   - [Parameter cloaking](https://github.com/Kama-ganah/Parameter-cloaking)
   - [Referer-based access control(access control)](https://github.com/Kama-ganah/Referer-based-access-control-access-control-)
   - [Routing-based SSRF(HTTP host header)](https://github.com/Kama-ganah/Routing-based-SSRF-HTTP-host-header-)
-  - [SameSite Lax bypass via method override(CSRF)]()
+  - [SameSite Lax bypass via method override(CSRF)](https://github.com/Kama-ganah/SameSite-Lax-bypass-via-method-override-CSRF-)
+  - [Scanning non-standard data structures(essentials)]()
 
 
 <h2> Tools used</h2>
