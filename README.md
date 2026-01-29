@@ -55,7 +55,8 @@
   - [Multistep clickjacking(clickjacking)](https://github.com/Kama-ganah/Multistep-clickjacking-clickjacking-)
   - [OAuth account hijacking via redirect_uri](https://github.com/Kama-ganah/OAuth-account-hijacking-via-redirect_uri)
   - [Parameter cloaking](https://github.com/Kama-ganah/Parameter-cloaking)
-  - [Referer-based access control(access control)]()
+  - [Referer-based access control(access control)](https://github.com/Kama-ganah/Referer-based-access-control-access-control-)
+  - [Routing-based SSRF(HTTP host header)]()
 
 
 <h2> Tools used</h2>
