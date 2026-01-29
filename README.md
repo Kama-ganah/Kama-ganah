@@ -1,8 +1,11 @@
 <h1>Hi, I'm Kama <br/>
   
 #  <a href="[https://linkedin.com](https://www.linkedin.com/in/kama-un-ganah-712063220/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-I am an experienced website application penetration tester, proficent in building methodlogy, using both manual and automated tools to test for vulnerabilites, seek out waeknesses and 
-  
+
+I am an experienced web application penetration tester with a strong focus on building and applying structured testing methodologies. I use a combination of manual testing and selective automation to identify vulnerabilities, uncover implementation weaknesses, and validate real‑world security impact.
+
+# Objective
+
 # Penetration Tester
 
 <h2>Core Competencies</h2>
