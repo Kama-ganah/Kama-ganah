@@ -65,7 +65,7 @@
   - [User ID controlled by request parameter(access control)](https://github.com/Kama-ganah/User-ID-controlled-by-request-parameter-access-control-)
   - [Web cache poisoning with an unkeyed cookie](https://github.com/Kama-ganah/Web-cache-poisoning-with-an-unkeyed-cookie)
   - [Web shell upload via Content-Type restriction bypass(file upload vuln.)](https://github.com/Kama-ganah/Web-shell-upload-via-Content-Type-restriction-bypass-file-upload-vuln.-)
-  - [Web shell upload via extension blacklist bypass(file upload vuln.)]()
+  - [Web shell upload via extension blacklist bypass(file upload vuln.)](https://github.com/Kama-ganah/Web-shell-upload-via-extension-blacklist-bypass-file-upload-vuln.-)
 
 
 <h2> Tools used</h2>
@@ -75,7 +75,5 @@
 
 
 
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 
