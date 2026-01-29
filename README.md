@@ -59,7 +59,8 @@
   - [Routing-based SSRF(HTTP host header)](https://github.com/Kama-ganah/Routing-based-SSRF-HTTP-host-header-)
   - [SameSite Lax bypass via method override(CSRF)](https://github.com/Kama-ganah/SameSite-Lax-bypass-via-method-override-CSRF-)
   - [Scanning non-standard data structures(essentials)](https://github.com/Kama-ganah/Scanning-non-standard-data-structures)
-  - [Server-side template injection in a sandboxed environment]()
+  - [Server-side template injection in a sandboxed environment](https://github.com/Kama-ganah/Server-side-template-injection-in-a-sandboxed-environment)
+  - [Server-side template injection with information disclosure via user-supplied objects]()
 
 
 <h2> Tools used</h2>
