@@ -10,7 +10,8 @@
   - [Brute-forcing a stay-logged-in cookie](https://github.com/Kama-ganah/Brute-forcing-a-stay-logged-in-cookie)
   - [Bypassing access controls using email address parsing discrepancies](https://github.com/Kama-ganah/Bypassing-access-controls-using-email-address-parsing-discrepancies)
   - [Bypassing GraphQL brute force protections](https://github.com/Kama-ganah/Bypassing-GraphQL-brute-force-protections)
-  -  [Bypassing rate limits via race conditions](https://github.com/Kama-ganah/Bypassing-rate-limits-via-race-conditions)
+  - [Bypassing rate limits via race conditions](https://github.com/Kama-ganah/Bypassing-rate-limits-via-race-conditions)
+  - [Clickjacking with form input data prefilled from a URL parameter(clickjacking)](https://github.com/Kama-ganah/Bypassing-rate-limits-via-race-conditions)  
 
 
 <h2> 🤳 Connect with me:</h2>
