@@ -49,7 +49,8 @@
   - [JWT authentication bypass via flawed signature verification](https://github.com/Kama-ganah/JWT-authentication-bypass-via-flawed-signature-verification)
   - [JWT authentication bypass via jku header injection](https://github.com/Kama-ganah/JWT-authentication-bypass-via-jku-header-injection)
   - [Low-level logic flaw(business logic vulnerability)](https://github.com/Kama-ganah/Low-level-logic-flaw-business-logic-vulnerability-)
-  - [Manipulating WebSocket messages to exploit vulnerabilities]()
+  - [Manipulating WebSocket messages to exploit vulnerabilities](https://github.com/Kama-ganah/Manipulating-WebSocket-messages-to-exploit-vulnerabilities)
+  - [Method-based access control can be circumvented(access control)]()
 
 
 <h2> Tools used</h2>
