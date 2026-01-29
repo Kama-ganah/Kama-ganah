@@ -39,7 +39,8 @@
   - [DOM-based cookie manipulation](https://github.com/Kama-ganah/DOM-based-cookie-manipulation)
   - [Exploiting insecure output handling in LLMs](https://github.com/Kama-ganah/Exploiting-insecure-output-handling-in-LLMs)
   - [Exploiting path delimiters for web cache deception(web cache deception)](https://github.com/Kama-ganah/Exploiting-path-delimiters-for-web-cache-deception-web-cache-deception-)
-  - [Exploiting time-sensitive vulnerabilities(race conditons)]()
+  - [Exploiting time-sensitive vulnerabilities(race conditons)](https://github.com/Kama-ganah/Exploiting-time-sensitive-vulnerabilities-race-conditions-)
+  - [Exploiting vulnerabilities in LLM APIs]()
 
 
 <h2> Tools used</h2>
