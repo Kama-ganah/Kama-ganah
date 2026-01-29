@@ -53,7 +53,8 @@
   - [Method-based access control can be circumvented(access control)](https://github.com/Kama-ganah/Method-based-access-control-can-be-circumvented-access-control-)
   - [Modifying serialized data types(insecure deserialization)](https://github.com/Kama-ganah/Modifying-serialized-data-types-insecure-deserialization-)
   - [Multistep clickjacking(clickjacking)](https://github.com/Kama-ganah/Multistep-clickjacking-clickjacking-)
-  - [OAuth account hijacking via redirect_uri]()
+  - [OAuth account hijacking via redirect_uri](https://github.com/Kama-ganah/OAuth-account-hijacking-via-redirect_uri)
+  - [Parameter cloaking]()
 
 
 <h2> Tools used</h2>
