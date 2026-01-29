@@ -62,7 +62,8 @@
   - [Server-side template injection in a sandboxed environment](https://github.com/Kama-ganah/Server-side-template-injection-in-a-sandboxed-environment)
   - [Server-side template injection with information disclosure via user-supplied objects](https://github.com/Kama-ganah/Server-side-template-injection-with-information-disclosure-via-user-supplied-objects)
   - [SQL injection attack, querying the database type and version on MySQL and Microsoft(sqli)](https://github.com/Kama-ganah/SQL-injection-attack-querying-the-database-type-and-version-on-MySQL-and-Microsoft-sqli-)
-  - [User ID controlled by request parameter(access control)]()
+  - [User ID controlled by request parameter(access control)](https://github.com/Kama-ganah/User-ID-controlled-by-request-parameter-access-control-)
+  - [Web cache poisoning with an unkeyed cookie]()
 
 
 <h2> Tools used</h2>
