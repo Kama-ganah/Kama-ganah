@@ -1,6 +1,7 @@
 <h1>Hi, I'm Kama <br/>
   
 #  <a href="[https://linkedin.com](https://www.linkedin.com/in/kama-un-ganah-712063220/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+I am an experienced website application penetration tester, proficent in building methodlogy, using both manual and automated tools to test for vulnerabilites, seek out waeknesses and 
   
 # Penetration Tester
 
@@ -69,6 +70,22 @@
 
 
 <h2> Tools used</h2>
+<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=portswigger&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-2C2E83?&style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h2> Disclaimer!</h2>
