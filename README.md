@@ -51,7 +51,8 @@
   - [Low-level logic flaw(business logic vulnerability)](https://github.com/Kama-ganah/Low-level-logic-flaw-business-logic-vulnerability-)
   - [Manipulating WebSocket messages to exploit vulnerabilities](https://github.com/Kama-ganah/Manipulating-WebSocket-messages-to-exploit-vulnerabilities)
   - [Method-based access control can be circumvented(access control)](https://github.com/Kama-ganah/Method-based-access-control-can-be-circumvented-access-control-)
-  - [Modifying serialized data types(insecure deserialization)]()
+  - [Modifying serialized data types(insecure deserialization)](https://github.com/Kama-ganah/Modifying-serialized-data-types-insecure-deserialization-)
+  - [Multistep clickjacking(clickjacking)]()
 
 
 <h2> Tools used</h2>
