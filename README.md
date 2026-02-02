@@ -23,7 +23,7 @@ I work to fully understand how a web application is built and behaves, then meth
 - Security Research & Threat Analysis
 - Professional Reporting & Documentation
 
-<h2>👨‍💻 Penetration Testing Projects:</h2>
+<h2>👨‍💻 Security Assessments:</h2>
 
   - [Authentication bypass via information disclosure in an E-commerce webapp](https://github.com/Kama-ganah/Authentication-bypass-via-information-disclosure-in-an-E-commerce-webapp-)
   - [Basic password reset poisoning in a healthcare webapp](https://github.com/Kama-ganah/Basic-password-reset-poisoning-in-a-healthcare-webapp)
